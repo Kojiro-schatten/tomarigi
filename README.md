@@ -19,3 +19,9 @@ cd tomarigi
 
 npm run dev
 ```
+
+### Vercel
+
+https://tomarigi.vercel.app/
+
+https://vercel.com/kojiro-schatten/tomarigi
